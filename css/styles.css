@@ -1,0 +1,102 @@
+#title{
+    background-color: #fff;
+    color:black;
+  }
+.container-fluid{
+    text-align: center;
+    padding: 0% 2% 1% 2%;
+  }
+
+  #main-title{
+    background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/9c1a6689-7135-4d11-acb1-7ffb28d3d135/df3lonc-f3022946-28c4-45e3-9b1a-7ac82077cdfb.jpg/v1/fill/w_1600,h_900,q_75,strp/metal_earth_by_redwoodjedi_df3lonc-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTAwIiwicGF0aCI6IlwvZlwvOWMxYTY2ODktNzEzNS00ZDExLWFjYjEtN2ZmYjI4ZDNkMTM1XC9kZjNsb25jLWYzMDIyOTQ2LTI4YzQtNDVlMy05YjFhLTdhYzgyMDc3Y2RmYi5qcGciLCJ3aWR0aCI6Ijw9MTYwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.hXoePkoTB9lDSWXlflHPJVaySDIys0RylzpWRVvJN68");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  
+  .main-box{
+    margin-left: 0%;
+    padding-top: 18%;
+    margin-bottom: 20%;
+  }
+  
+
+  .main-box h2{
+    font-size: 60px;
+  }
+
+
+  #second-title{
+    background-color: #1B2430;
+    color: white;
+    padding: 5% 12%;
+    font-size: 2rem;
+  }
+
+  .second-box{
+    margin: 3%;
+    text-align: center;
+
+  }
+
+  .second-box h2{
+    padding-top: 5%;
+  }
+
+  #third-title{
+    background-color: #669ad2;
+    color: white;
+    font-size: 2rem;
+  }
+
+ .dialogue{
+    padding: 0% 12%;
+  }
+
+  .third-box h2{
+    margin-top: 10%;
+    padding: 5% 0 12% 2%;
+    font-size: 70px;
+  }
+
+  .btn-light{
+    padding: 1% 5%;
+    font-size: large;
+    word-spacing: 1px;
+  }
+
+  .third-img{
+    padding-top: 0%;
+    padding-bottom: 0%;
+  }
+
+  #about-title{
+    background-color: #51557E;
+    color: white;
+    font-size: 2rem;
+  }
+
+  .about-box{
+    padding: 5%;
+  }
+
+  .about-box h1{
+    padding-bottom: 3%;
+  }
+
+  .about-box h2{
+    font-family: Sacramento;
+    font-size: 4rem;
+  }
+  .about-box p{
+    font-family: Montserrat;
+    font-size: 3rem;
+  }
+
+  footer{
+    text-align: center;
+  }
+  
+  .foot-icon{
+    padding: 1% 2%
+  }
